@@ -39,15 +39,16 @@ class Solution:
         
         return min_diff
 
+```
 ## Output
 
-### Input
-    3 4 1 9 56 7 9 12
-    5
+```bash
+Input:
+3 4 1 9 56 7 9 12
+5
 
-### Your Output
-    6
-
+Output:
+6
 ### Expected Output
     6
 
